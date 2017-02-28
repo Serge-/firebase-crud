@@ -15,7 +15,13 @@ import { LoginPageComponent } from './login-page/login-page.component';
 import { RegistrationPageComponent } from './registration-page/registration-page.component';
 
 
-export const firebaseConfig = {   apiKey: "AIzaSyCRc3Pw21srrO-Arvwgd7wRJoHngvG5seA",   authDomain: "test-4916e.firebaseapp.com",   databaseURL: "https://test-4916e.firebaseio.com",   storageBucket: "test-4916e.appspot.com",   messagingSenderId: "522694819594" };
+export const firebaseConfig = {
+  apiKey: "Your-Code-Here",
+  authDomain: "Your-Code-Here",
+  databaseURL: "Your-Code-Here",
+  storageBucket: "Your-Code-Here",
+  messagingSenderId: "Your-Code-Here"
+};
 
 const router: Routes = [
   { path: '', component: HomePageComponent},
