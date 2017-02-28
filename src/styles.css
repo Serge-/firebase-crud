@@ -1,0 +1,19 @@
+/*@import '../node_modules/@angular/material/core/theming/prebuilt/deeppurple-amber.css';*/
+/*@import 'https://fonts.googleapis.com/icon?family=Material+Icons';*/
+
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+
+.navbar-brand {
+    color: whitesmoke;
+    text-decoration: none;
+}
+.md-inline-form {
+    width: 50%;
+    margin: 3em auto;
+}
+input {
+    margin-bottom: 1em;
+}
